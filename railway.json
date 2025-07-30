@@ -1,0 +1,7 @@
+{
+  "build": {
+    "installCommand": "pip install -r azimuse-bot/requirements.txt",
+    "buildCommand": "",
+    "startCommand": "python azimuse-bot/bot.py"
+  }
+}
